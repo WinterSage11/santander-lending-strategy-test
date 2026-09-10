@@ -1,8 +1,8 @@
-venv/
-*.csv # Importante: La prueba prohíbe compartir datos
+data/*.csv
 __pycache__/
 .ipynb_checkpoints/
 venv/
 *.csv
 __pycache__/
 .ipynb_checkpoints/
+
